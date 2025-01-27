@@ -10,7 +10,7 @@ export default defineConfig({
     },
   },
   server: {
-    port: process.env.PORT || 3000,  // Use the Render-provided port or fallback to 3000
+    port: 3000,  // Hardcoded to 3000 for local development or fallback
     host: "0.0.0.0",  // Ensure Vite listens on all interfaces
   },
 })
