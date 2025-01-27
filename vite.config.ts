@@ -9,4 +9,8 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  server: {
+    port: process.env.PORT || 3000,  // Use the Render-provided port or fallback to 3000
+    host: "0.0.0.0",  // Ensure Vite listens on all interfaces
+  },
 })
