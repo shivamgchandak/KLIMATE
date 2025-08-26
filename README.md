@@ -13,10 +13,6 @@ A modern, feature-rich weather application that provides real-time weather data 
 - **Temperature Units**: Switch between Celsius and Fahrenheit
 - **Weather Alerts**: Get notified about severe weather conditions
 
-## 🚀 Demo
-
-![Website Overview](public/klimate.mp4)
-
 ## 📸 Screenshots
 
 ![KLIMATE Dashboard - Dark Mode](public/klimate1)
