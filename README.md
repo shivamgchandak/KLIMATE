@@ -15,7 +15,7 @@ A modern, feature-rich weather application that provides real-time weather data 
 
 ## 🚀 Demo
 
-![Live Demo](public/kilmate.mp4)
+![Website Overview](public/klimate.mp4)
 
 ## 📸 Screenshots
 
