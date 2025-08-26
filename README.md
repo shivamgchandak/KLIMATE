@@ -8,7 +8,6 @@ A modern, feature-rich weather application that provides real-time weather data 
 - **Extended Forecasts**: View detailed 5-day and hourly weather forecasts
 - **Location-based Services**: Automatic location detection using browser geolocation
 - **Search Functionality**: Search weather data for cities worldwide
-- **Favorite Cities**: Save and manage your favorite locations
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices
 - **Dark/Light Mode**: Toggle between themes for optimal viewing
 - **Temperature Units**: Switch between Celsius and Fahrenheit
@@ -16,7 +15,7 @@ A modern, feature-rich weather application that provides real-time weather data 
 
 ## 🚀 Demo
 
-[Live Demo](public/kilmate.mp4) <!-- Replace with actual demo link -->
+![Live Demo](public/kilmate.mp4)
 
 ## 📸 Screenshots
 
