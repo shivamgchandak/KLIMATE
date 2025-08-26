@@ -10,8 +10,6 @@ A modern, feature-rich weather application that provides real-time weather data 
 - **Search Functionality**: Search weather data for cities worldwide
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices
 - **Dark/Light Mode**: Toggle between themes for optimal viewing
-- **Temperature Units**: Switch between Celsius and Fahrenheit
-- **Weather Alerts**: Get notified about severe weather conditions
 
 ## 📸 Screenshots
 
@@ -56,21 +54,6 @@ KLIMATE/
 ├── package.json
 └── README.md
 ```
-
-## 🔧 Configuration
-
-### Weather API Setup
-
-1. Sign up for a free account at [OpenWeatherMap](https://openweathermap.org/api)
-2. Get your API key from the dashboard
-3. Add the key to your environment variables
-
-### Customization Options
-
-- **Theme Colors**: Modify the CSS variables in `src/styles/variables.css`
-- **Default Location**: Set in `src/utils/constants.js`
-- **API Endpoints**: Configure in `src/services/weatherAPI.js`
-- **Units**: Change default units in the settings component
 
 ## 🌐 API Integration
 
